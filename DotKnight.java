@@ -2,8 +2,7 @@
  * @(#)DotKnight.java
  *
  *
- * @Shahir Chowdhury
- * @version 1.00 2017/4/22
+ * @Hassan Arshad
  */
 
 /* This program creates the DotKnight's game loop and is used to run the game */
@@ -20,7 +19,7 @@ public class DotKnight extends JFrame implements ActionListener{
 	private int windowh = 750; //window height
 
 	public DotKnight() {
-		super("Dot Knight");
+		super("Dot K Night");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(windoww,windowh);
 
