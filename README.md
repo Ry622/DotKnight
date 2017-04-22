@@ -1,2 +1,2 @@
 # DotKnight
-Game for Ludum Dare 38
+This is a game about a dot who wants to be a knight.
